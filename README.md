@@ -1,4 +1,4 @@
-# practice_repo0
+# qr-challenge
 
 ### How to Contribute
 Head to the issues page to see how you can contirbute to this repo. 
